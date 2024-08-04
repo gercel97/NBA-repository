@@ -1,0 +1,28 @@
+id,full_name,abbreviation,nickname,city,state,year_founded,wins_1981_to_2023,loses_1981_to_2023,current_season_wins,current_season_loses,avg_pts,region,division,championships_won
+1610612737,Atlanta Hawks,ATL,Hawks,Atlanta,Atlanta,1949.0,880,537,32,32,117.0,East,Southeast,1
+1610612738,Boston Celtics,BOS,Celtics,Boston,Massachusetts,1946.0,912,510,45,20,117.7,East,Atlantic,17
+1610612739,Cleveland Cavaliers,CLE,Cavaliers,Cleveland,Ohio,1970.0,866,556,40,26,112.0,East,Central,1
+1610612740,New Orleans Pelicans,NOP,Pelicans,New Orleans,Louisiana,2002.0,435,360,31,33,114.2,West,Southwest,0
+1610612741,Chicago Bulls,CHI,Bulls,Chicago,Illinois,1966.0,891,524,29,36,113.0,East,Central,6
+1610612742,Dallas Mavericks,DAL,Mavericks,Dallas,Texas,1980.0,878,555,33,32,114.0,West,Southwest,1
+1610612743,Denver Nuggets,DEN,Nuggets,Denver,Colorado,1976.0,891,529,45,19,117.1,West,Northwest,1
+1610612744,Golden State Warriors,GSW,Warriors,Golden State,California,1946.0,833,593,34,31,118.0,West,Pacific,7
+1610612745,Houston Rockets,HOU,Rockets,Houston,Texas,1967.0,911,509,15,49,110.3,West,Southwest,2
+1610612746,Los Angeles Clippers,LAC,Clippers,Los Angeles,California,1970.0,754,650,34,33,112.7,West,Pacific,0
+1610612747,Los Angeles Lakers,LAL,Lakers,Los Angeles,California,1948.0,964,463,31,34,116.7,West,Pacific,17
+1610612748,Miami Heat,MIA,Heat,Miami,Florida,1988.0,826,484,34,31,108.1,East,Southeast,3
+1610612749,Milwaukee Bucks,MIL,Bucks,Milwaukee,Wisconsin,1968.0,851,579,46,18,115.6,East,Central,2
+1610612750,Minnesota Timberwolves,MIN,Timberwolves,Minnesota,Minnesota,1989.0,626,679,34,32,115.6,West,Northwest,0
+1610612751,Brooklyn Nets,BKN,Nets,Brooklyn,New York,1976.0,750,662,36,28,113.5,East,Atlantic,0
+1610612752,New York Knicks,NYK,Knicks,New York,New York,1946.0,797,620,39,27,115.5,East,Atlantic,2
+1610612753,Orlando Magic,ORL,Magic,Orlando,Florida,1989.0,749,559,27,38,111.0,East,Southeast,0
+1610612754,Indiana Pacers,IND,Pacers,Indiana,Indiana,1976.0,922,489,29,36,115.0,East,Central,0
+1610612755,Philadelphia 76ers,PHI,76ers,Philadelphia,Pennsylvania,1949.0,778,653,41,22,114.5,East,Atlantic,3
+1610612756,Phoenix Suns,PHX,Suns,Phoenix,Arizona,1968.0,909,500,36,29,113.0,West,Pacific,0
+1610612757,Portland Trail Blazers,POR,Trail Blazers,Portland,Oregon,1970.0,950,471,30,34,115.0,West,Northwest,1
+1610612758,Sacramento Kings,SAC,Kings,Sacramento,California,1948.0,769,642,37,26,121.1,West,Pacific,1
+1610612759,San Antonio Spurs,SAS,Spurs,San Antonio,Texas,1976.0,1024,390,16,49,112.1,West,Southwest,5
+1610612760,Oklahoma City Thunder,OKC,Thunder,Oklahoma City,Oklahoma,1967.0,928,490,30,34,118.2,West,Northwest,1
+1610612764,Washington Wizards,WAS,Wizards,Washington,District of Columbia,1961.0,714,680,30,34,113.1,East,Southeast,1
+1610612765,Detroit Pistons,DET,Pistons,Detroit,Michigan,1948.0,837,567,15,49,111.4,East,Central,3
+1610612766,Charlotte Hornets,CHA,Hornets,Charlotte,North Carolina,1988.0,660,563,20,46,111.8,East,Southeast,0
